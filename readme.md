@@ -1,6 +1,6 @@
 # Montado Hamburguer pelo vue.js
 
-## Montando Hamburguer aonde que adicionar os elementos e colocacando o nome e enderenço e pode repeti!
+## Montando Hamburguer aonde que adicionar os elementos e colocando o nome e enderenço e pode repeti!
 
 ### Projeto feito no curso da Soitech com Professor Denny Azevedo.
 
