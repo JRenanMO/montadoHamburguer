@@ -1,4 +1,4 @@
-# Montado Hamburguer pelo vue.js
+# Montando Hamburguer pelo vue.js
 
 ## Montando Hamburguer aonde que adicionar os elementos e colocando o nome e enderenço e pode repeti!
 
